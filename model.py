@@ -1,106 +1,134 @@
+from sklearn.model_selection import  StratifiedShuffleSplit
+from sklearn.preprocessing import MinMaxScaler
+from sklearn.metrics import accuracy_score, f1_score, classification_report, roc_curve, auc, confusion_matrix
+from tensorflow.keras.models import Sequential
+from tensorflow.keras.layers import LSTM, Dense, Dropout
+from tensorflow.keras.metrics import AUC
 import pandas as pd
 import numpy as np
-import tensorflow as tf
-from tensorflow.keras.models import Sequential
-from tensorflow.keras.layers import Conv1D, MaxPooling1D, LSTM, Dense, Dropout
-from sklearn.model_selection import train_test_split
-from sklearn.preprocessing import MinMaxScaler
-from keras_tuner import Hyperband
-from sklearn.metrics import accuracy_score
-from tensorflow.keras.regularizers import l2
-import numpy as np
-from tensorflow.keras.optimizers import Adam
-from tensorflow.keras.layers import Input
+import matplotlib.pyplot as plt
+import seaborn as sns
 
 
-# Load and preprocess dataset
-data = pd.read_csv("tesla_data_other.csv")
+# Load data
+df = pd.read_csv("Tesla_data_original.csv")
 
+X = df.drop(columns=['Price_Increase_7d'])
+y = df['Price_Increase_7d']
 
-# Define the sequence creation function
-def create_sequences(data, labels, timesteps):
-    Xs, ys = [], []
-    for i in range(len(data) - timesteps):
-        Xs.append(data[i:(i + timesteps)])
-        ys.append(labels[i + timesteps])
-
-    Xs, ys = np.array(Xs), np.array(ys)
-    
-    # Debugging information
-    print("Xs shape:", Xs.shape)  # Expect (num_samples, timesteps, num_features)
-    print("ys shape:", ys.shape)  # Expect (num_samples,)
-    print("Example sequence (Xs[0]):", Xs[0])
-    print("Corresponding label (ys[0]):", ys[0])
-
-    return Xs, ys
-
-
-# Define the target variable
-X = data.drop(columns = ['Price_Increase_7d'])
-
-# response variable
-y = data['Price_Increase_7d']
-
-
-# Define number of timesteps
-timesteps = 21
-
-# Initial split into training+validation and test set
-X_temp, X_test, y_temp, y_test = train_test_split(X, y, test_size=0.15, shuffle=False)
-
-# Further split X_temp into training and validation sets
-X_train, X_val, y_train, y_val = train_test_split(X_temp, y_temp, test_size=0.1765, shuffle=False)  # 15% of the original for validation
-
-# Scale the features
+# Min-max scale the full feature set
 scaler = MinMaxScaler()
-X_train_scaled = scaler.fit_transform(X_train)
-X_val_scaled = scaler.transform(X_val)
-X_test_scaled = scaler.transform(X_test)
+X_scaled = scaler.fit_transform(X)
 
-# Reset indices and create sequences
-y_train = y_train.reset_index(drop=True).to_numpy()
-y_val = y_val.reset_index(drop=True).to_numpy()
-y_test = y_test.reset_index(drop=True).to_numpy()
-X_train_seq, y_train_seq = create_sequences(X_train_scaled, y_train, timesteps)
-X_val_seq, y_val_seq = create_sequences(X_val_scaled, y_val, timesteps)
-X_test_seq, y_test_seq = create_sequences(X_test_scaled, y_test, timesteps)
-num_features = X_train_seq.shape[2]
+# Define sequence creation function
+def create_lstm_sequences(X, y, timesteps=21):
+    X_seq, y_seq = [], []
+    for i in range(len(X) - timesteps):
+        X_seq.append(X[i:i + timesteps])
+        y_seq.append(y[i + timesteps])
+    return np.array(X_seq), np.array(y_seq)
 
+# Apply sequence creation
+timesteps = 3
+X_seq, y_seq = create_lstm_sequences(X_scaled, y.values, timesteps=timesteps)
 
-# Define the model for hyperparameter tuning
-def build_lstm_model(input_shape, l2_value=0.01):
-    model = Sequential()
-    
-    # Define the input layer
-    model.add(Input(shape=input_shape))
-    
-    # First LSTM layer with L2 regularization
-    model.add(LSTM(128, return_sequences=True, kernel_regularizer=l2(l2_value)))
-    model.add(Dropout(0.2))  # Dropout for regularization
-    
-    # Second LSTM layer with L2 regularization
-    model.add(LSTM(64, return_sequences=True, kernel_regularizer=l2(l2_value)))
-    model.add(Dropout(0.2))
-    
-    # Third LSTM layer with L2 regularization
-    model.add(LSTM(32, kernel_regularizer=l2(l2_value)))
-    model.add(Dropout(0.2))
-    
-    # Output layer with a sigmoid activation for binary classification
-    model.add(Dense(1, activation='sigmoid', kernel_regularizer=l2(l2_value)))
-    
-    # Compile the model with binary cross-entropy loss and Adam optimizer
-    model.compile(optimizer=Adam(learning_rate=1e-4), loss='binary_crossentropy', metrics=['accuracy'])
-    
-    return model
+# Now split into train and test
 
-# Assuming input_shape is (timesteps, num_features)
-input_shape = (X_train_seq.shape[1], X_train_seq.shape[2])
-model = build_lstm_model(input_shape)
+splitter = StratifiedShuffleSplit(n_splits=1, test_size=0.2, random_state=69)
+for train_idx, test_idx in splitter.split(X_seq, y_seq):
+    X_train, X_test = X_seq[train_idx], X_seq[test_idx]
+    y_train, y_test = y_seq[train_idx], y_seq[test_idx]
+
+# Define extreme class weight to force focus on class 1
+class_weight = {0: 1.0, 1: 1.0}
+
+# Build the LSTM model
+input_shape = (X_train.shape[1], X_train.shape[2])  # (timesteps, features)
+
+LSTM_model = Sequential()
+LSTM_model.add(LSTM(128, return_sequences=True, input_shape=input_shape))
+LSTM_model.add(Dropout(0.1))
+LSTM_model.add(LSTM(64, return_sequences=True))
+LSTM_model.add(Dropout(0.2))
+LSTM_model.add(LSTM(32, return_sequences=False))
+LSTM_model.add(Dropout(0.3))
+LSTM_model.add(Dense(1, activation='sigmoid'))
+LSTM_model.compile(optimizer='adam', loss='binary_crossentropy', metrics=[AUC(name='auc')])
 
 
-history = model.fit(X_train_seq, y_train_seq, epochs=50, batch_size=32, validation_data=(X_test_seq, y_val_seq))
 
-# Evaluate the model on the test data
-test_loss, test_accuracy = model.evaluate(X_test_seq, y_test_seq)
-print(f"Test Accuracy: {test_accuracy * 100:.2f}%")
+# Train the model
+history = LSTM_model.fit(
+    X_train, y_train,
+    epochs=200,
+    batch_size=32,  # Good match for your timestep length
+    validation_data=(X_test, y_test),
+    class_weight=class_weight
+)
+
+
+
+# Evaluate the model
+test_loss, test_auc = LSTM_model.evaluate(X_test, y_test)
+print(f"Test Loss: {test_loss}")
+print(f"Test AUC: {test_auc}")
+
+# Predict on test data
+y_pred = LSTM_model.predict(X_test).flatten()
+y_pred_binary = (y_pred > 0.5).astype(int)
+
+# Accuracy & F1
+acc = accuracy_score(y_test, y_pred_binary)
+f1 = f1_score(y_test, y_pred_binary)
+print(f"\nAccuracy Score: {acc:.4f}")
+print(f"F1 Score: {f1:.4f}")
+print("\nClassification Report:")
+print(classification_report(y_test, y_pred_binary))
+
+
+# y_test into a Series
+y_test_indexed = pd.Series(y_test)
+
+# incorrect predictions
+incorrect_mask = y_test_indexed != y_pred_binary
+incorrect_df = pd.DataFrame({
+    'Actual': y_test_indexed[incorrect_mask].values,
+    'Predicted': y_pred_binary[incorrect_mask],
+    'Probability': y_pred[incorrect_mask]
+})
+
+print(f"\nNumber of incorrect predictions: {len(incorrect_df)}")
+print(incorrect_df)
+
+incorrect_df.to_csv("incorrect_predictions.csv", index=False)
+
+
+
+cm = confusion_matrix(y_test, y_pred_binary)
+
+plt.figure(figsize=(6, 4))
+sns.heatmap(cm, annot=True, fmt="d", cmap="Blues")
+plt.xlabel("Predicted")
+plt.ylabel("Actual")
+plt.title("Confusion Matrix")
+plt.tight_layout()
+plt.show()
+
+# Calculate false positive rate, true positive rate, and thresholds
+fpr, tpr, thresholds = roc_curve(y_test, y_pred)
+roc_auc = auc(fpr, tpr)
+
+# Plot the AUC curve
+plt.figure(figsize=(8, 6))
+plt.plot(fpr, tpr, color='darkorange', lw=2, label=f'ROC curve (AUC = {roc_auc:.2f})')
+plt.plot([0, 1], [0, 1], color='navy', lw=2, linestyle='--')
+plt.xlim([0.0, 1.0])
+plt.ylim([0.0, 1.05])
+plt.xlabel('False Positive Rate')
+plt.ylabel('True Positive Rate')
+plt.title('Receiver Operating Characteristic (ROC) Curve')
+plt.legend(loc='lower right')
+plt.grid(True)
+plt.tight_layout()
+plt.show()
+
