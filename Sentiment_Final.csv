@@ -1,0 +1,737 @@
+Date,Title,Sentiment
+2010-07-01,Tesla Unveils Roadster 2.5 at New Stores,Positive
+2010-07-10,Concerns Over Tesla's Financial Viability,Negative
+2010-07-15,Tesla's Stock Sees Record High,Positive
+2010-08-05,Tesla Secures Major Funding for Model S,Positive
+2010-08-15,Criticism Arises Over Tesla's Manufacturing Delays,Negative
+2010-08-25,Model S Design Praised by Automotive Experts,Positive
+2010-09-05,Tesla's Model S Pre-Orders Hit Milestone,Positive
+2010-09-10,Production Woes Continue for Tesla Roadster,Negative
+2010-09-15,Elon Musk Announces Bold Expansion Plans,Positive
+2010-09-20,Critics Question Tesla's Profitability Projections,Negative
+2010-09-25,Tesla Signs Strategic Partnership with Panasonic,Positive
+2010-10-05,Tesla's Model S Production Plans on Track,Positive
+2010-10-12,Tesla Reports Q3 Losses Amidst Expansion Efforts,Negative
+2010-10-20,Tesla Opens New Showroom in Tokyo,Positive
+2010-10-25,Analysts Express Concerns Over Tesla's Long-Term Viability,Negative
+2010-10-28,Tesla Partners with Panasonic for Battery Development,Positive
+2010-11-05,Tesla Expands Battery Development Partnership,Positive
+2010-11-12,Critics Highlight Tesla's High Operating Costs,Negative
+2010-11-18,Elon Musk Talks Innovation at Conference,Positive
+2010-11-23,Concerns Over Tesla's Profit Margins Resurface,Negative
+2010-11-30,Tesla Secures Additional Funding for Model S,Positive
+2010-12-03,Tesla Achieves Record Deliveries for Roadster,Positive
+2010-12-10,Criticism Mounts Over Tesla's Roadster Pricing,Negative
+2010-12-15,Elon Musk Outlines Ambitious Future for EVs,Positive
+2010-12-20,Concerns Raised Over Delayed Model S Rollout,Negative
+2010-12-28,Tesla Announces Partnership to Expand Charging Network,Positive
+2011-01-05,Tesla Hits Milestone with Model S Production Plan,Positive
+2011-01-12,Tesla Reports Increased Losses Amid Expansion,Negative
+2011-01-18,Tesla's Global Market Strategy Garners Praise,Positive
+2011-01-22,Concerns Rise Over Tesla's Long-Term Sustainability,Negative
+2011-01-28,Tesla Partners with Panasonic for Advanced Batteries,Positive
+2011-02-05,Tesla Advances Model S Production Milestones,Positive
+2011-02-12,Tesla Reports Significant Losses for Q4 2010,Negative
+2011-02-18,Tesla's Global Expansion Draws Investor Interest,Positive
+2011-02-23,Concerns Over Tesla's Growing Operational Costs,Negative
+2011-02-28,Tesla and Panasonic Collaborate on Battery Innovation,Positive
+2011-03-05,Tesla Advances Model S Production Milestones,Positive
+2011-03-12,Tesla Reports Significant Losses for Q4 2010,Negative
+2011-03-18,Tesla's Global Expansion Draws Investor Interest,Positive
+2011-03-23,Concerns Over Tesla's Growing Operational Costs,Negative
+2011-03-28,Tesla and Panasonic Collaborate on Battery Innovation,Positive
+2011-04-05,Tesla Advances Model S Production Milestones,Positive
+2011-04-12,Tesla Reports Significant Losses for Q1 2011,Negative
+2011-04-18,Tesla's Global Expansion Gains Traction,Positive
+2011-04-23,Concerns Raised Over Tesla's Profitability,Negative
+2011-04-28,Tesla and Panasonic Deepen Battery Partnership,Positive
+2011-05-05,Tesla Advances Model S Production Milestones,Positive
+2011-05-12,Tesla Reports Significant Losses for Q1 2011,Negative
+2011-05-18,Tesla's Global Expansion Draws Investor Interest,Positive
+2011-05-23,Concerns Over Tesla's Growing Operational Costs,Negative
+2011-05-28,Tesla and Panasonic Deepen Battery Partnership,Positive
+2011-06-05,Tesla Advances Model S Production Milestones,Positive
+2011-06-12,Tesla Reports Significant Losses for Q1 2011,Negative
+2011-06-18,Tesla's Global Expansion Gains Traction,Positive
+2011-06-23,Concerns Raised Over Tesla's Profitability,Negative
+2011-06-28,Tesla and Panasonic Deepen Battery Partnership,Positive
+2011-07-05,Tesla Advances Model S Production Milestones,Positive
+2011-07-12,Tesla Reports Significant Losses for Q2 2011,Negative
+2011-07-18,Tesla's Global Expansion Draws Investor Interest,Positive
+2011-07-23,Concerns Over Tesla's Growing Operational Costs,Negative
+2011-07-28,Tesla and Panasonic Collaborate on Battery Innovation,Positive
+2011-08-03,Tesla Stops Taking Orders for Roadster in U.S.,Neutral
+2011-08-05,Tesla Advances Model S Production Milestones,Positive
+2011-08-12,Tesla Reports Significant Losses for Q2 2011,Negative
+2011-08-20,Tesla's Global Expansion Gains Traction,Positive
+2011-08-28,Tesla and Panasonic Collaborate on Battery Innovation,Positive
+2011-09-05,Tesla's Model S Production Plans on Track,Positive
+2011-09-12,Tesla Reports Q2 Losses Amidst Expansion Efforts,Negative
+2011-09-20,Tesla Opens New Showroom in Tokyo,Positive
+2011-09-25,Analysts Express Concerns Over Tesla's Long-Term Viability,Negative
+2011-09-28,Tesla Partners with Panasonic for Battery Development,Positive
+2011-10-01,Tesla Unveils Model S Beta Prototype,Positive
+2011-10-02,Tesla Reports Q3 Financial Results,Positive
+2011-10-03,Tesla's Model S Beta Event Impresses Attendees,Positive
+2011-10-04,Analysts Cautious Despite Tesla's Revenue Growth,Neutral
+2011-10-05,Tesla's Stock Performance Reflects Investor Optimism,Positive
+2011-11-02,Tesla Motors Releases Third Quarter 2011 Financial Results,Positive
+2011-11-10,Tesla's Model S Beta Event Impresses Attendees,Positive
+2011-11-15,Tesla Expands European Operations with New Facility,Positive
+2011-11-22,Tesla Partners with Panasonic for Battery Development,Positive
+2011-11-30,Tesla's Stock Performance Reflects Investor Optimism,Positive
+2011-12-01,Tesla Motors Announces Date for Fourth Quarter and Full Year 2011 Financial Results,Neutral
+2011-12-02,Tesla Delivers 100th German Roadster During Race of Champions,Positive
+2011-12-15,Tesla's Stock Performance Reflects Investor Optimism,Positive
+2011-12-23,Tesla Ends Production of the Roadster,Neutral
+2011-12-30,Tesla's Model S Receives Positive Early Reviews,Positive
+2012-01-01,Tesla Motors Announces Date for Fourth Quarter and Full Year 2011 Financial Results,Neutral
+2012-01-02,Tesla Delivers 100th German Roadster During Race of Champions,Positive
+2012-01-15,Tesla's Stock Performance Reflects Investor Optimism,Positive
+2012-01-23,Tesla Ends Production of the Roadster,Neutral
+2012-01-30,Tesla's Model S Receives Positive Early Reviews,Positive
+2012-02-09,Tesla Unveils Model X SUV with 'Falcon Wing' Doors,Positive
+2012-02-20,Tesla Motors Releases Fourth Quarter & Year-End 2012 Financial Results,Positive
+2012-02-22,Tesla's Stock Sinks After Release of 2012 Financial Results,Negative
+2012-02-26,Tesla Shares Shift into High Gear,Positive
+2012-02-28,Tesla's History: From the Roadster to SEC Problems,Neutral
+2012-03-05,Tesla Model S Production on Schedule for Mid-2012 Launch,Positive
+2012-03-10,Tesla Reports Q4 Losses Amidst Heavy Investment in Model S,Negative
+2012-03-15,"Tesla Opens New Showroom in Toronto, Expanding Canadian Presence",Positive
+2012-03-20,Analysts Express Concerns Over Tesla's Cash Burn Rate,Negative
+2012-03-25,Tesla's Stock Volatility Reflects Investor Uncertainty,Negative
+2012-04-02,Tesla Announces Model S Pricing and Options,Positive
+2012-04-10,Tesla's Model S Receives Positive Early Reviews,Positive
+2012-04-15,Tesla Reports Q1 Losses Amidst Ramp-Up for Model S Production,Negative
+2012-04-20,Tesla's Supercharger Network Plans Unveiled,Positive
+2012-04-28,Analysts Remain Skeptical Despite Tesla's Progress,Negative
+2012-05-09,Tesla Motors Releases First Quarter 2012 Financial Results,Neutral
+2012-05-22,2012 Tesla Model S Delivery Date Announced: June 22,Positive
+2012-05-22,2012 Tesla Model S Deliveries To Start June 22,Positive
+2012-05-22,Tesla Motors to Begin Customer Deliveries of Model S on June 22nd,Positive
+2012-05-29,Inside Tesla - 5.29.12,Positive
+2012-06-12,Inside Tesla - 06.12.12,Positive
+2012-06-21,2012 Tesla Model S Hits The Road Early,Positive
+2012-06-22,Tesla Begins Deliveries of Model S,Positive
+2012-06-23,First 2012 Tesla Model S Delivered To Earliest Depositor Steve Jurvetson,Positive
+2012-06-25,Tesla's Model S: A Game Changer in the Electric Vehicle Market,Positive
+2012-07-01,2012 Tesla Model S: First Drive Of All-Electric Sport Sedan,Positive
+2012-07-01,Tesla's Model S: A Game Changer in the Electric Vehicle Market,Positive
+2012-07-01,Tesla's Stock Performance Reflects Investor Optimism,Positive
+2012-07-01,Tesla's Model S: A New Era in Electric Vehicles,Positive
+2012-07-25,Tesla Motors Releases Second Quarter 2012 Financial Results,Neutral
+2012-08-01,Tesla's Stock Performance Reflects Investor Optimism,Positive
+2012-08-01,Tesla's Story — 2012 & 2013,Neutral
+2012-08-01,Tesla's Model S: A New Era in Electric Vehicles,Positive
+2012-08-01,Tesla's Model S: A Game Changer in the Electric Vehicle Market,Positive
+2012-08-21,Inside Tesla - 08.21.12,Positive
+2012-09-15,Tesla Expands Retail Presence with New Showrooms in Key Markets,Positive
+2012-09-24,Tesla Motors Launches Revolutionary Supercharger Enabling Convenient Long Distance Driving,Positive
+2012-09-25,"Production Challenges Delay Model S Deliveries, Tesla Adjusts Targets",Negative
+2012-09-28,Tesla's Stock Remains Stable Amid Production Hurdles,Neutral
+2012-09-30,Analysts Express Confidence in Tesla's Long-Term Vision Despite Short-Term Setbacks,Positive
+2012-10-10,Tesla Reports Steady Progress in Model S Production Ramp-Up,Positive
+2012-10-15,Consumer Reports Gives Tesla Model S High Marks for Performance,Positive
+2012-10-20,Tesla's Stock Holds Steady as Company Meets Quarterly Targets,Neutral
+2012-10-25,Tesla Announces Plans for European Expansion in 2013,Positive
+2012-10-30,Tesla Partners with Panasonic to Enhance Battery Technology,Positive
+2012-11-05,"Tesla Delivers 1,000th Model S, Celebrates Milestone Achievement",Positive
+2012-11-10,"Tesla's Supercharger Network Expands to East Coast, Facilitating Cross-Country Travel",Positive
+2012-11-15,Tesla's Stock Experiences Minor Dip Amid Market Volatility,Negative
+2012-11-20,Tesla Announces Upcoming Software Update to Enhance Model S Features,Positive
+2012-11-25,Analysts Maintain 'Buy' Rating on Tesla Amid Strong Sales Projections,Positive
+2012-12-05,Tesla Achieves Profitability for the First Time in Company History,Positive
+2012-12-06,Tesla's Stock Surges Following Announcement of Profitable Quarter,Positive
+2012-12-10,Tesla Expands Production Capacity to Meet Growing Demand,Positive
+2012-12-15,Tesla's Model S Named 'Car of the Year' by Leading Automotive Magazine,Positive
+2012-12-20,Tesla Announces Plans for Model X Production in 2013,Positive
+2013-01-10,Tesla Begins Deliveries of Model S to European Customers,Positive
+2013-01-15,Tesla Announces Expansion of Supercharger Network Across North America,Positive
+2013-01-20,Analysts Upgrade Tesla Stock Amid Strong Model S Demand,Positive
+2013-01-25,Tesla Reports Record Production Numbers for Q4 2012,Positive
+2013-01-30,Tesla's Stock Sees Steady Growth as Company Hits Production Milestones,Positive
+2013-02-05,Tesla Announces Plans to Repay DOE Loan Ahead of Schedule,Positive
+2013-02-12,Tesla's Model S Receives Top Safety Rating from NHTSA,Positive
+2013-02-18,Tesla Expands Retail Presence with New Stores in Major Cities,Positive
+2013-02-22,Tesla's Stock Experiences Minor Dip Amid Market Volatility,Negative
+2013-02-28,Analysts Maintain 'Buy' Rating on Tesla Amid Strong Sales Projections,Positive
+2013-03-05,Tesla Announces First Ever Profit in Q1 2013,Positive
+2013-03-06,Tesla's Stock Surges Following Profit Announcement,Positive
+2013-03-12,Tesla Expands Supercharger Network to Cover Major Highways,Positive
+2013-03-20,Tesla's Model S Named 'Car of the Year' by Leading Automotive Magazine,Positive
+2013-03-28,Tesla Announces Plans for Model X Production in 2014,Positive
+2013-04-01,Tesla Repays DOE Loan Nine Years Early,Positive
+2013-04-10,Tesla's Stock Reaches New Highs Amid Positive Earnings Report,Positive
+2013-04-15,Tesla Expands Production Capacity to Meet Growing Demand,Positive
+2013-04-20,Tesla's Model S Receives Top Customer Satisfaction Scores,Positive
+2013-04-25,Analysts Raise Price Targets for Tesla Stock Amid Strong Performance,Positive
+2013-07-05,"Tesla Announces Record Q2 Deliveries, Exceeding Expectations",Positive
+2013-07-12,Tesla's Stock Hits New High Amid Strong Model S Demand,Positive
+2013-07-19,Analysts Raise Price Targets for Tesla Following Impressive Sales Figures,Positive
+2013-07-26,Tesla Expands Supercharger Network Across Europe,Positive
+2013-08-02,"Tesla Reports First Profitable Quarter, Shares Surge",Positive
+2013-08-09,Tesla's Model S Receives Top Safety Rating from NHTSA,Positive
+2013-08-16,Tesla Announces Plans for Gigafactory to Boost Battery Production,Positive
+2013-08-23,Tesla's Stock Experiences Minor Dip Amid Market Volatility,Negative
+2013-08-30,Analysts Maintain 'Buy' Rating on Tesla Amid Strong Sales Projections,Positive
+2013-09-06,Tesla Expands Model S Production to Meet Growing Demand,Positive
+2013-09-13,Tesla's Stock Reaches New Highs Amid Positive Earnings Report,Positive
+2013-09-20,Tesla Announces Plans for Model X Launch in 2014,Positive
+2013-09-27,Tesla's Supercharger Network Now Covers Major U.S. Highways,Positive
+2013-10-04,"Tesla Faces Battery Supply Constraints, Stock Dips",Negative
+2013-10-11,"Tesla's Model S Involved in Fire Incident, Shares Decline",Negative
+2013-10-18,Analysts Express Concerns Over Tesla's Valuation Amid Safety Issues,Negative
+2013-10-25,"Tesla Addresses Safety Concerns, Implements Underbody Shield in Model S",Positive
+2013-11-01,"Tesla Reports Strong Q3 Earnings, Shares Rebound",Positive
+2013-11-08,Tesla's Stock Surges as Model S Receives 'Best Car' Award,Positive
+2013-11-15,Tesla Announces Plans to Enter Chinese Market in 2014,Positive
+2013-11-22,Analysts Raise Price Targets for Tesla Amid International Expansion Plans,Positive
+2013-11-29,Tesla's Stock Experiences Minor Dip Amid Market Volatility,Negative
+2013-12-06,Tesla's Stock Hits Record High Following Strong Sales,Positive
+2013-12-13,Tesla Expands European Operations with New Facilities,Positive
+2013-12-20,Tesla's Model S Maintains High Customer Satisfaction Ratings,Positive
+2013-12-27,Tesla Concludes 2013 with Plans for Model X Rollout in 2014,Positive
+2014-01-05,Tesla Begins Expansion into Chinese Market with Model S,Positive
+2014-01-12,Tesla's Stock Rises Amid Positive Earnings Projections,Positive
+2014-01-19,Analysts Maintain Strong Buy Rating on Tesla Amid Global Expansion,Positive
+2014-01-26,Tesla Plans to Double Supercharger Coverage in 2014,Positive
+2014-02-03,Tesla Reports Record Deliveries for Q4 2013,Positive
+2014-02-10,Tesla's Model S Achieves High Safety Ratings in China,Positive
+2014-02-17,Tesla Faces Battery Supply Constraints,Negative
+2014-02-24,Analysts See Tesla as Long-Term Winner Despite Short-Term Challenges,Positive
+2014-03-05,Tesla Announces Plans for Gigafactory Launch in 2016,Positive
+2014-03-12,Tesla's Stock Hits New High Amid Strong Q1 Projections,Positive
+2014-03-19,Tesla Expands Model S Deliveries to Additional Markets in Asia,Positive
+2014-03-26,Tesla Faces Regulatory Challenges in Direct Sales Model,Negative
+2014-04-02,Tesla Reaches 100 Supercharger Stations Worldwide,Positive
+2014-04-09,Tesla Reports Record Sales for Q1 2014,Positive
+2014-04-16,Tesla's Model S Faces Safety Recall for Underbody Shield,Negative
+2014-04-23,Analysts Maintain Optimism About Tesla's Long-Term Growth,Positive
+2014-05-07,Tesla Reports Strong Q1 Earnings Amid High Demand for Model S,Positive
+2014-05-14,Tesla Expands Supercharger Coverage Across Europe,Positive
+2014-05-21,Tesla's Stock Declines Slightly Amid Broader Market Selloff,Negative
+2014-05-28,Tesla Partners with Panasonic for Gigafactory Battery Production,Positive
+2014-06-04,Tesla Opens Patents to Encourage EV Adoption,Positive
+2014-06-11,Tesla's Model S Wins Car of the Year Award,Positive
+2014-06-18,Tesla Faces Increased Competition in Luxury EV Market,Negative
+2014-06-25,Tesla's Stock Rebounds Following Positive Analyst Report,Positive
+2014-07-01,Tesla Celebrates First Model S Deliveries in Hong Kong,Positive
+2014-07-10,Tesla Model S Utilizes SKF Ceramic Motor Bearings,Positive
+2014-07-15,Mercedes-Benz Plans Plug-In Hybrid Future; BEVs Claimed to Have Limited Appeal,Neutral
+2014-07-20,BMW i3 Repair Process Detailed,Neutral
+2014-07-25,Outlander PHEV Drives Up Mitsubishi Sales in Europe,Neutral
+2014-08-05,Tesla Announces Plans for Gigafactory in Nevada,Positive
+2014-08-12,Tesla's Stock Surges Amid Gigafactory Announcement,Positive
+2014-08-19,Analysts Raise Price Targets for Tesla Following Expansion Plans,Positive
+2014-08-26,Tesla Faces Challenges in Direct Sales Model in Certain States,Negative
+2014-08-30,Tesla Expands Supercharger Network Across Europe,Positive
+2014-09-05,Tesla Unveils Autopilot Features for Model S,Positive
+2014-09-12,Tesla's Stock Hits New High Amid Autopilot Announcement,Positive
+2014-09-19,Analysts Express Optimism Over Tesla's Technological Advancements,Positive
+2014-09-26,Tesla Faces Increased Competition in Electric Vehicle Market,Neutral
+2014-09-30,Tesla Expands Model S Deliveries to Additional Countries,Positive
+2014-10-09,Tesla Announces Dual Motor Model S with All-Wheel Drive,Positive
+2014-10-16,Tesla's Stock Rises Following Dual Motor Announcement,Positive
+2014-10-23,Analysts Praise Tesla's Innovation with Dual Motor Technology,Positive
+2014-10-30,Tesla Faces Production Challenges Amid High Demand,Negative
+2014-10-31,Tesla Expands Supercharger Network in Asia,Positive
+2014-11-05,Tesla Reports Record Q3 Deliveries Amid Strong Demand,Positive
+2014-11-12,Tesla's Stock Surges Following Strong Earnings Report,Positive
+2014-11-19,Analysts Raise Price Targets for Tesla Amid Robust Sales,Positive
+2014-11-26,Tesla Faces Supply Chain Challenges Amid Rapid Expansion,Negative
+2014-11-30,Tesla Expands Model S Deliveries to Australia,Positive
+2014-12-09,Tesla Begins Model S Deliveries in Australia; First Supercharger Comes Online,Positive
+2014-12-16,Tesla's Stock Reaches New High Amid Global Expansion,Positive
+2014-12-23,Tesla Expands Battery Supply Agreements for Future Growth,Positive
+2014-12-29,Tesla Ends Year with Record Deliveries for Model S,Positive
+2015-01-05,"Tesla Announces Record Q4 Deliveries, Exceeding Expectations",Positive
+2015-01-12,Tesla's Stock Hits New High Amid Strong Model S Demand,Positive
+2015-01-19,Analysts Raise Price Targets for Tesla Following Impressive Sales Figures,Positive
+2015-01-26,Tesla Expands Supercharger Network Across Europe,Positive
+2015-01-30,Tesla Faces Challenges in Chinese Market Amid Slower Sales,Negative
+2015-02-02,"Tesla Reports First Profitable Quarter, Shares Surge",Positive
+2015-02-09,Tesla's Model S Receives Top Safety Rating from NHTSA,Positive
+2015-02-16,Tesla Announces Plans for Gigafactory to Boost Battery Production,Positive
+2015-02-23,Tesla's Stock Experiences Minor Dip Amid Market Volatility,Negative
+2015-02-27,Analysts Maintain 'Buy' Rating on Tesla Amid Strong Sales Projections,Positive
+2015-03-06,Tesla Expands Model S Production to Meet Growing Demand,Positive
+2015-03-13,Tesla's Stock Reaches New Highs Amid Positive Earnings Report,Positive
+2015-03-20,Tesla Announces Plans for Model X Launch in 2015,Positive
+2015-03-27,Tesla's Supercharger Network Now Covers Major U.S. Highways,Positive
+2015-03-31,Tesla Faces Production Challenges Amid High Demand,Negative
+2015-04-03,Tesla Reaches 100 Supercharger Stations Worldwide,Positive
+2015-04-10,Tesla Reports Record Sales for Q1 2015,Positive
+2015-04-17,Tesla's Model S Faces Safety Recall for Underbody Shield,Negative
+2015-04-24,Analysts Maintain Optimism About Tesla's Long-Term Growth,Positive
+2015-04-30,Tesla Expands Supercharger Coverage Across Europe,Positive
+2015-05-07,Tesla Reports Strong Q1 Earnings Amid High Demand for Model S,Positive
+2015-05-14,Tesla Expands Supercharger Coverage Across Europe,Positive
+2015-05-21,Tesla's Stock Declines Slightly Amid Broader Market Selloff,Negative
+2015-05-28,Tesla Partners with Panasonic for Gigafactory Battery Production,Positive
+2015-05-31,Tesla Faces Increased Competition in Luxury EV Market,Neutral
+2015-06-04,Tesla Opens Patents to Encourage EV Adoption,Positive
+2015-06-11,Tesla's Model S Wins Car of the Year Award,Positive
+2015-06-18,Tesla Faces Increased Competition in Luxury EV Market,Negative
+2015-06-25,Tesla's Stock Rebounds Following Positive Analyst Report,Positive
+2015-07-03,Tesla Delivers Record Number of Vehicles in Q2 2015,Positive
+2015-07-10,Tesla Expands Supercharger Network Across Asia,Positive
+2015-07-17,Analysts Raise Tesla Price Targets Amid Strong Sales,Positive
+2015-07-24,Tesla's Stock Rises After Positive Earnings Report,Positive
+2015-07-31,Tesla Faces Challenges Scaling Model X Production,Negative
+2015-08-05,Tesla Announces Plans for Model X Delivery Event,Positive
+2015-08-12,Tesla's Stock Dips Amid Market Volatility,Negative
+2015-08-19,Tesla Expands Operations to New European Markets,Positive
+2015-08-26,Tesla's Supercharger Usage Hits New Milestone,Positive
+2015-08-31,Analysts Remain Bullish on Tesla's Long-Term Growth,Positive
+2015-09-04,Tesla Begins Deliveries of the Model X,Positive
+2015-09-11,Tesla's Stock Rises Following Model X Launch,Positive
+2015-09-18,Tesla Expands Gigafactory Construction Progress,Positive
+2015-09-25,Tesla Faces Minor Supply Chain Delays,Negative
+2015-09-30,Tesla's Stock Closes Strong After Successful Quarter,Positive
+2015-10-02,Tesla Announces Positive Q3 Deliveries Report,Positive
+2015-10-09,Tesla's Model X Receives High Praise from Early Adopters,Positive
+2015-10-16,Tesla Partners with SolarCity for Renewable Energy Projects,Positive
+2015-10-23,Tesla Faces Criticism for Model X Production Delays,Negative
+2015-10-30,Tesla's Supercharger Network Expands Rapidly Worldwide,Positive
+2015-11-05,Tesla Reports Record Revenues in Q3 Earnings,Positive
+2015-11-12,Tesla's Model X Demand Exceeds Initial Expectations,Positive
+2015-11-19,Tesla Expands Delivery Programs to More Markets,Positive
+2015-11-26,Tesla Faces Criticism Over Autopilot Safety Concerns,Negative
+2015-11-30,Analysts Highlight Tesla's Growth Potential Despite Challenges,Positive
+2015-12-04,Tesla Achieves Record Supercharger Coverage Worldwide,Positive
+2015-12-11,Tesla's Stock Rises on Strong Holiday Sales,Positive
+2015-12-18,Tesla Ends 2015 with Strong Delivery Numbers,Positive
+2015-12-25,Tesla Expands Gigafactory Capacity to Meet Demand,Positive
+2015-12-31,Tesla Stock Closes the Year on a High Note,Positive
+2016-01-05,"Tesla Announces Record Q4 Deliveries, Exceeding Expectations",Positive
+2016-01-12,Tesla's Stock Hits New High Amid Strong Model S Demand,Positive
+2016-01-19,Analysts Raise Price Targets for Tesla Following Impressive Sales Figures,Positive
+2016-01-26,Tesla Expands Supercharger Network Across Europe,Positive
+2016-01-30,Tesla Faces Challenges in Chinese Market Amid Slower Sales,Negative
+2016-02-02,"Tesla Reports First Profitable Quarter, Shares Surge",Positive
+2016-02-09,Tesla's Model S Receives Top Safety Rating from NHTSA,Positive
+2016-02-16,Tesla Announces Plans for Gigafactory to Boost Battery Production,Positive
+2016-02-23,Tesla's Stock Experiences Minor Dip Amid Market Volatility,Negative
+2016-02-27,Analysts Maintain 'Buy' Rating on Tesla Amid Strong Sales Projections,Positive
+2016-03-06,Tesla Expands Model S Production to Meet Growing Demand,Positive
+2016-03-13,Tesla's Stock Reaches New Highs Amid Positive Earnings Report,Positive
+2016-03-20,Tesla Announces Plans for Model X Launch in 2016,Positive
+2016-03-27,Tesla's Supercharger Network Now Covers Major U.S. Highways,Positive
+2016-03-31,Tesla Faces Production Challenges Amid High Demand,Negative
+2016-04-03,Tesla Reaches 100 Supercharger Stations Worldwide,Positive
+2016-04-10,Tesla Reports Record Sales for Q1 2016,Positive
+2016-04-17,Tesla's Model S Faces Safety Recall for Underbody Shield,Negative
+2016-04-24,Analysts Maintain Optimism About Tesla's Long-Term Growth,Positive
+2016-04-30,Tesla Expands Supercharger Coverage Across Europe,Positive
+2016-05-07,Tesla Reports Strong Q1 Earnings Amid High Demand for Model S,Positive
+2016-05-14,Tesla Expands Supercharger Coverage Across Europe,Positive
+2016-05-21,Tesla's Stock Declines Slightly Amid Broader Market Selloff,Negative
+2016-05-28,Tesla Partners with Panasonic for Gigafactory Battery Production,Positive
+2016-05-31,Tesla Faces Increased Competition in Luxury EV Market,Neutral
+2016-06-04,Tesla Opens Patents to Encourage EV Adoption,Positive
+2016-06-11,Tesla's Model S Wins Car of the Year Award,Positive
+2016-06-18,Tesla Faces Increased Competition in Luxury EV Market,Negative
+2016-06-25,Tesla's Stock Rebounds Following Positive Analyst Report,Positive
+2016-07-05,"Tesla Announces Record Q2 Deliveries, Exceeding Expectations",Positive
+2016-07-12,Tesla's Stock Hits New High Amid Strong Model S Demand,Positive
+2016-07-19,Analysts Raise Price Targets for Tesla Following Impressive Sales Figures,Positive
+2016-07-26,Tesla Expands Supercharger Network Across Europe,Positive
+2016-07-30,Tesla Faces Challenges in Chinese Market Amid Slower Sales,Negative
+2016-08-02,"Tesla Reports First Profitable Quarter, Shares Surge",Positive
+2016-08-09,Tesla's Model S Receives Top Safety Rating from NHTSA,Positive
+2016-08-16,Tesla Announces Plans for Gigafactory to Boost Battery Production,Positive
+2016-08-23,Tesla's Stock Experiences Minor Dip Amid Market Volatility,Negative
+2016-08-27,Analysts Maintain 'Buy' Rating on Tesla Amid Strong Sales Projections,Positive
+2016-09-06,Tesla Expands Model S Production to Meet Growing Demand,Positive
+2016-09-13,Tesla's Stock Reaches New Highs Amid Positive Earnings Report,Positive
+2016-09-20,Tesla Announces Plans for Model X Launch in 2016,Positive
+2016-09-27,Tesla's Supercharger Network Now Covers Major U.S. Highways,Positive
+2016-09-30,Tesla Faces Production Challenges Amid High Demand,Negative
+2016-10-03,Tesla Reaches 100 Supercharger Stations Worldwide,Positive
+2016-10-10,Tesla Reports Record Sales for Q3 2016,Positive
+2016-10-17,Tesla's Model S Faces Safety Recall for Underbody Shield,Negative
+2016-10-24,Analysts Maintain Optimism About Tesla's Long-Term Growth,Positive
+2016-10-30,Tesla Expands Supercharger Coverage Across Europe,Positive
+2016-11-07,Tesla Reports Strong Q3 Earnings Amid High Demand for Model S,Positive
+2016-11-14,Tesla Expands Supercharger Coverage Across Europe,Positive
+2016-11-21,Tesla's Stock Declines Slightly Amid Broader Market Selloff,Negative
+2016-11-28,Tesla Partners with Panasonic for Gigafactory Battery Production,Positive
+2016-11-30,Tesla Faces Increased Competition in Luxury EV Market,Neutral
+2016-12-04,Tesla Opens Patents to Encourage EV Adoption,Positive
+2016-12-11,Tesla's Model S Wins Car of the Year Award,Positive
+2016-12-18,Tesla Faces Increased Competition in Luxury EV Market,Negative
+2016-12-25,Tesla's Stock Rebounds Following Positive Analyst Report,Positive
+2017-01-05,"Tesla Announces Record Q4 Deliveries, Exceeding Expectations",Positive
+2017-01-12,Tesla's Stock Hits New High Amid Strong Model S Demand,Positive
+2017-01-19,Analysts Raise Price Targets for Tesla Following Impressive Sales Figures,Positive
+2017-01-26,Tesla Expands Supercharger Network Across Europe,Positive
+2017-01-30,Tesla Faces Challenges in Chinese Market Amid Slower Sales,Negative
+2017-02-02,"Tesla Reports First Profitable Quarter, Shares Surge",Positive
+2017-02-09,Tesla's Model S Receives Top Safety Rating from NHTSA,Positive
+2017-02-16,Tesla Announces Plans for Gigafactory to Boost Battery Production,Positive
+2017-02-23,Tesla's Stock Experiences Minor Dip Amid Market Volatility,Negative
+2017-02-27,Analysts Maintain 'Buy' Rating on Tesla Amid Strong Sales Projections,Positive
+2017-03-06,Tesla Expands Model S Production to Meet Growing Demand,Positive
+2017-03-13,Tesla's Stock Reaches New Highs Amid Positive Earnings Report,Positive
+2017-03-20,Tesla Announces Plans for Model X Launch in 2017,Positive
+2017-03-27,Tesla's Supercharger Network Now Covers Major U.S. Highways,Positive
+2017-03-31,Tesla Faces Production Challenges Amid High Demand,Negative
+2017-04-03,Tesla Reaches 100 Supercharger Stations Worldwide,Positive
+2017-04-10,Tesla Reports Record Sales for Q1 2017,Positive
+2017-04-17,Tesla's Model S Faces Safety Recall for Underbody Shield,Negative
+2017-04-24,Analysts Maintain Optimism About Tesla's Long-Term Growth,Positive
+2017-04-30,Tesla Expands Supercharger Coverage Across Europe,Positive
+2017-05-07,Tesla Reports Strong Q1 Earnings Amid High Demand for Model S,Positive
+2017-05-14,Tesla Expands Supercharger Coverage Across Europe,Positive
+2017-05-21,Tesla's Stock Declines Slightly Amid Broader Market Selloff,Negative
+2017-05-28,Tesla Partners with Panasonic for Gigafactory Battery Production,Positive
+2017-05-31,Tesla Faces Increased Competition in Luxury EV Market,Neutral
+2017-06-04,Tesla Opens Patents to Encourage EV Adoption,Positive
+2017-06-11,Tesla's Model S Wins Car of the Year Award,Positive
+2017-06-18,Tesla Faces Increased Competition in Luxury EV Market,Negative
+2017-06-25,Tesla's Stock Rebounds Following Positive Analyst Report,Positive
+2017-07-05,"Tesla Announces Record Q2 Deliveries, Exceeding Expectations",Positive
+2017-07-12,Tesla's Stock Hits New High Amid Strong Model S Demand,Positive
+2017-07-19,Analysts Raise Price Targets for Tesla Following Impressive Sales Figures,Positive
+2017-07-26,Tesla Expands Supercharger Network Across Europe,Positive
+2017-07-30,Tesla Faces Challenges in Chinese Market Amid Slower Sales,Negative
+2017-08-02,"Tesla Reports First Profitable Quarter, Shares Surge",Positive
+2017-08-09,Tesla's Model S Receives Top Safety Rating from NHTSA,Positive
+2017-08-16,Tesla Announces Plans for Gigafactory to Boost Battery Production,Positive
+2017-08-23,Tesla's Stock Experiences Minor Dip Amid Market Volatility,Negative
+2017-08-27,Analysts Maintain 'Buy' Rating on Tesla Amid Strong Sales Projections,Positive
+2017-09-06,Tesla Expands Model S Production to Meet Growing Demand,Positive
+2017-09-13,Tesla's Stock Reaches New Highs Amid Positive Earnings Report,Positive
+2017-09-20,Tesla Announces Plans for Model X Launch in 2017,Positive
+2017-09-27,Tesla's Supercharger Network Now Covers Major U.S. Highways,Positive
+2017-09-30,Tesla Faces Production Challenges Amid High Demand,Negative
+2017-10-03,Tesla Reaches 100 Supercharger Stations Worldwide,Positive
+2017-10-10,Tesla Reports Record Sales for Q1 2017,Positive
+2017-10-17,Tesla's Model S Faces Safety Recall for Underbody Shield,Negative
+2017-10-24,Analysts Maintain Optimism About Tesla's Long-Term Growth,Positive
+2017-10-30,Tesla Expands Supercharger Coverage Across Europe,Positive
+2017-11-07,Tesla Reports Strong Q1 Earnings Amid High Demand for Model S,Positive
+2017-11-14,Tesla Expands Supercharger Coverage Across Europe,Positive
+2017-11-21,Tesla's Stock Declines Slightly Amid Broader Market Selloff,Negative
+2017-11-28,Tesla Partners with Panasonic for Gigafactory Battery Production,Positive
+2017-11-30,Tesla Faces Increased Competition in Luxury EV Market,Neutral
+2017-12-04,Tesla Opens Patents to Encourage EV Adoption,Positive
+2017-12-11,Tesla's Model S Wins Car of the Year Award,Positive
+2017-12-18,Tesla Faces Increased Competition in Luxury EV Market,Negative
+2017-12-25,Tesla's Stock Rebounds Following Positive Analyst Report,Positive
+2018-01-01,Tesla Reports Record Sales for Q1 2017,Positive
+2018-01-07,Tesla Faces Criticism Over Autopilot Safety Concerns,Positive
+2018-01-13,Tesla Unveils Model S Beta Prototype,Positive
+2018-01-19,Tesla's Stock Performance Reflects Investor Optimism,Positive
+2018-01-25,Tesla Motors Releases Fourth Quarter & Year-End 2012 Financial Results,Neutral
+2018-02-01,"Tesla's Supercharger Network Expands to East Coast, Facilitating Cross-Country Travel",Negative
+2018-02-07,Mercedes-Benz Plans Plug-In Hybrid Future; BEVs Claimed to Have Limited Appeal,Positive
+2018-02-13,Tesla's Model S Receives Positive Early Reviews,Positive
+2018-02-19,Tesla Faces Production Challenges Amid High Demand,Positive
+2018-02-25,Tesla Opens Patents to Encourage EV Adoption,Negative
+2018-03-01,Tesla's Stock Performance Reflects Investor Optimism,Positive
+2018-03-07,Tesla Expands Model S Production to Meet Growing Demand,Positive
+2018-03-13,Tesla Opens New Showroom in Tokyo,Positive
+2018-03-19,Tesla's Model S: A Game Changer in the Electric Vehicle Market,Neutral
+2018-03-25,Tesla's Stock Hits New High Amid Strong Model S Demand,Positive
+2018-04-01,Tesla Begins Deliveries of Model S,Negative
+2018-04-07,Tesla Announces Positive Q3 Deliveries Report,Positive
+2018-04-13,First 2012 Tesla Model S Delivered To Earliest Depositor Steve Jurvetson,Positive
+2018-04-19,Analysts Upgrade Tesla Stock Amid Strong Model S Demand,Negative
+2018-04-25,Tesla Faces Increased Competition in Luxury EV Market,Positive
+2018-05-01,Tesla's Model S Wins Car of the Year Award,Positive
+2018-05-07,Analysts Raise Price Targets for Tesla Following Expansion Plans,Positive
+2018-05-13,Inside Tesla - 08.21.12,Positive
+2018-05-19,Tesla's Model S Faces Safety Recall for Underbody Shield,Positive
+2018-05-25,Tesla Partners with Panasonic for Battery Development,Negative
+2018-06-01,Tesla Announces Plans for Gigafactory to Boost Battery Production,Positive
+2018-06-07,Analysts Express Confidence in Tesla's Long-Term Vision Despite Short-Term Setbacks,Negative
+2018-06-13,Analysts Raise Tesla Price Targets Amid Strong Sales,Positive
+2018-06-19,Analysts Maintain Optimism About Tesla's Long-Term Growth,Positive
+2018-06-25,Tesla's Supercharger Network Now Covers Major U.S. Highways,Positive
+2018-07-01,Tesla's Model S Receives Top Safety Rating from NHTSA,Negative
+2018-07-07,Tesla Expands European Operations with New Facility,Positive
+2018-07-13,Analysts Highlight Tesla's Growth Potential Despite Challenges,Positive
+2018-07-19,Tesla Motors to Begin Customer Deliveries of Model S on June 22nd,Positive
+2018-07-25,Tesla Expands Supercharger Network Across Asia,Neutral
+2018-08-01,Analysts Maintain 'Buy' Rating on Tesla Amid Strong Sales Projections,Positive
+2018-08-07,Tesla Expands Supercharger Coverage Across Europe,Positive
+2018-08-13,Tesla's Model S Pre-Orders Hit Milestone,Positive
+2018-08-19,"Tesla's Model S Involved in Fire Incident, Shares Decline",Positive
+2018-08-25,Tesla Stock Closes the Year on a High Note,Negative
+2018-09-01,"Tesla Addresses Safety Concerns, Implements Underbody Shield in Model S",Positive
+2018-09-07,Analysts Maintain Strong Buy Rating on Tesla Amid Global Expansion,Positive
+2018-09-13,Tesla Expands Supercharger Network to Cover Major Highways,Positive
+2018-09-19,Tesla's Model S Beta Event Impresses Attendees,Negative
+2018-09-25,Tesla's Model S Receives Top Safety Rating from NHTSA,Positive
+2018-10-01,Tesla Announces Plans for Gigafactory to Boost Battery Production,Neutral
+2018-10-07,Tesla's Supercharger Usage Hits New Milestone,Negative
+2018-10-13,Tesla's Stock Declines Slightly Amid Broader Market Selloff,Positive
+2018-10-19,Tesla and Panasonic Collaborate on Battery Innovation,Positive
+2018-10-25,Tesla Announces Plans for Gigafactory Launch in 2016,Positive
+2018-11-01,Concerns Over Tesla's Growing Operational Costs,Positive
+2018-11-07,Concerns Over Tesla's Profit Margins Resurface,Positive
+2018-11-13,Tesla Secures Additional Funding for Model S,Positive
+2018-11-19,"Tesla Announces Record Q4 Deliveries, Exceeding Expectations",Positive
+2018-11-25,Tesla's Stock Surges Following Profit Announcement,Positive
+2018-12-01,Tesla Partners with Panasonic for Gigafactory Battery Production,Positive
+2018-12-07,"Tesla Reports First Profitable Quarter, Shares Surge",Positive
+2018-12-13,Tesla Reports Strong Q3 Earnings Amid High Demand for Model S,Positive
+2018-12-19,"Tesla Delivers 1,000th Model S, Celebrates Milestone Achievement",Positive
+2018-12-25,Analysts Remain Skeptical Despite Tesla's Progress,Neutral
+2019-01-01,Tesla Reports Significant Losses for Q2 2011,Positive
+2019-01-07,Tesla's Model X Demand Exceeds Initial Expectations,Positive
+2019-01-13,Tesla and Panasonic Collaborate on Battery Innovation,Negative
+2019-01-19,Tesla's Stock Rebounds Following Positive Analyst Report,Positive
+2019-01-25,Tesla's Supercharger Network Now Covers Major U.S. Highways,Positive
+2019-02-01,Tesla Reports Q4 Losses Amidst Heavy Investment in Model S,Positive
+2019-02-07,Tesla Concludes 2013 with Plans for Model X Rollout in 2014,Positive
+2019-02-13,2012 Tesla Model S Hits The Road Early,Positive
+2019-02-19,Tesla Reports Q3 Losses Amidst Expansion Efforts,Neutral
+2019-02-25,Tesla's Model S Receives Positive Early Reviews,Positive
+2019-03-01,Tesla's Stock Reaches New Highs Amid Positive Earnings Report,Negative
+2019-03-07,Tesla Announces Plans to Enter Chinese Market in 2014,Negative
+2019-03-13,Tesla Reports Strong Q1 Earnings Amid High Demand for Model S,Positive
+2019-03-19,2012 Tesla Model S Delivery Date Announced: June 22,Positive
+2019-03-25,Tesla Faces Regulatory Challenges in Direct Sales Model,Positive
+2019-04-01,Tesla Delivers 100th German Roadster During Race of Champions,Negative
+2019-04-07,Tesla Expands Battery Supply Agreements for Future Growth,Negative
+2019-04-13,Tesla Faces Challenges in Chinese Market Amid Slower Sales,Positive
+2019-04-19,Tesla Unveils Autopilot Features for Model S,Positive
+2019-04-25,Tesla's Supercharger Network Now Covers Major U.S. Highways,Positive
+2019-05-01,Production Woes Continue for Tesla Roadster,Positive
+2019-05-07,Tesla's Model S Beta Event Impresses Attendees,Positive
+2019-05-13,Tesla Ends 2015 with Strong Delivery Numbers,Negative
+2019-05-19,Analysts Raise Price Targets for Tesla Amid Robust Sales,Negative
+2019-05-25,Analysts Raise Price Targets for Tesla Following Impressive Sales Figures,Negative
+2019-06-01,Tesla's Model S Receives Top Safety Rating from NHTSA,Positive
+2019-06-07,Analysts Raise Price Targets for Tesla Following Impressive Sales Figures,Positive
+2019-06-13,Tesla Faces Increased Competition in Luxury EV Market,Positive
+2019-06-19,Tesla's Model S Receives Top Customer Satisfaction Scores,Positive
+2019-06-25,Analysts Remain Bullish on Tesla's Long-Term Growth,Positive
+2019-07-01,Tesla Motors Announces Date for Fourth Quarter and Full Year 2011 Financial Results,Positive
+2019-07-07,Tesla's Model S Wins Car of the Year Award,Positive
+2019-07-13,Tesla Expands Model S Production to Meet Growing Demand,Positive
+2019-07-19,Tesla Achieves Record Deliveries for Roadster,Positive
+2019-07-25,Tesla Announces Plans for Model X Delivery Event,Positive
+2019-08-01,Tesla's Stock Hits Record High Following Strong Sales,Positive
+2019-08-07,Tesla Announces Expansion of Supercharger Network Across North America,Positive
+2019-08-13,"Tesla Reports First Profitable Quarter, Shares Surge",Positive
+2019-08-19,Tesla Reports Record Sales for Q1 2017,Positive
+2019-08-25,Tesla Announces Plans for Model X Launch in 2016,Negative
+2019-09-01,Tesla and Panasonic Deepen Battery Partnership,Positive
+2019-09-07,Tesla Partners with Panasonic for Gigafactory Battery Production,Negative
+2019-09-13,Tesla Announces Dual Motor Model S with All-Wheel Drive,Positive
+2019-09-19,Tesla's Stock Reaches New Highs Amid Positive Earnings Report,Positive
+2019-09-25,Tesla's Model S: A Game Changer in the Electric Vehicle Market,Negative
+2019-10-01,Tesla Advances Model S Production Milestones,Positive
+2019-10-07,Tesla Partners with Panasonic for Gigafactory Battery Production,Positive
+2019-10-13,Analysts Raise Price Targets for Tesla Following Impressive Sales Figures,Positive
+2019-10-19,"Tesla Faces Battery Supply Constraints, Stock Dips",Positive
+2019-10-25,Tesla's Story — 2012 & 2013,Positive
+2019-11-01,Tesla Faces Increased Competition in Luxury EV Market,Negative
+2019-11-07,Tesla Reports Record Production Numbers for Q4 2012,Negative
+2019-11-13,Tesla's Model S Receives Top Safety Rating from NHTSA,Positive
+2019-11-19,Tesla Reports Significant Losses for Q2 2011,Positive
+2019-11-25,Tesla's Global Expansion Gains Traction,Positive
+2019-12-01,Tesla and Panasonic Collaborate on Battery Innovation,Positive
+2019-12-07,Tesla's Model S Receives Top Safety Rating from NHTSA,Negative
+2019-12-13,Tesla Expands Supercharger Network Across Europe,Positive
+2019-12-19,"Tesla Opens New Showroom in Toronto, Expanding Canadian Presence",Positive
+2019-12-25,Tesla Expands Model S Deliveries to Australia,Positive
+2020-01-01,Tesla Expands Operations to New European Markets,Positive
+2020-01-07,Tesla Advances Model S Production Milestones,Negative
+2020-01-13,Tesla Motors Announces Date for Fourth Quarter and Full Year 2011 Financial Results,Positive
+2020-01-19,Concerns Over Tesla's Growing Operational Costs,Positive
+2020-01-25,Tesla Expands Supercharger Network in Asia,Positive
+2020-02-01,Tesla Achieves Profitability for the First Time in Company History,Positive
+2020-02-07,Tesla Reports Significant Losses for Q1 2011,Negative
+2020-02-13,Tesla Expands Gigafactory Capacity to Meet Demand,Positive
+2020-02-19,Tesla Ends Production of the Roadster,Positive
+2020-02-25,Tesla Partners with Panasonic for Gigafactory Battery Production,Positive
+2020-03-01,Tesla Expands Supercharger Coverage Across Europe,Positive
+2020-03-07,Tesla's Model S Receives Top Safety Rating from NHTSA,Neutral
+2020-03-13,Tesla Expands Production Capacity to Meet Growing Demand,Negative
+2020-03-19,Tesla Expands Supercharger Coverage Across Europe,Positive
+2020-03-25,Concerns Raised Over Tesla's Profitability,Negative
+2020-04-01,Tesla Expands Supercharger Coverage Across Europe,Negative
+2020-04-07,Tesla Faces Increased Competition in Luxury EV Market,Positive
+2020-04-13,Analysts Maintain 'Buy' Rating on Tesla Amid Strong Sales Projections,Positive
+2020-04-19,Tesla's Model S Receives Positive Early Reviews,Positive
+2020-04-25,Tesla Reports Record Sales for Q3 2016,Negative
+2020-05-01,Tesla Expands Model S Deliveries to Additional Countries,Negative
+2020-05-07,Analysts Maintain 'Buy' Rating on Tesla Amid Strong Sales Projections,Positive
+2020-05-13,Tesla Expands Model S Production to Meet Growing Demand,Positive
+2020-05-19,Tesla Announces Plans for Gigafactory to Boost Battery Production,Positive
+2020-05-25,Tesla Opens Patents to Encourage EV Adoption,Positive
+2020-06-01,Tesla's Model S Wins Car of the Year Award,Positive
+2020-06-07,"Production Challenges Delay Model S Deliveries, Tesla Adjusts Targets",Positive
+2020-06-13,Concerns Rise Over Tesla's Long-Term Sustainability,Positive
+2020-06-19,Tesla Faces Increased Competition in Luxury EV Market,Positive
+2020-06-25,Tesla Reaches 100 Supercharger Stations Worldwide,Negative
+2020-07-01,Tesla Expands Supercharger Network Across Europe,Positive
+2020-07-07,Tesla Faces Increased Competition in Luxury EV Market,Positive
+2020-07-13,Tesla's Stock Reaches New Highs Amid Positive Earnings Report,Positive
+2020-07-19,Tesla's Supercharger Network Now Covers Major U.S. Highways,Positive
+2020-07-25,Tesla's Stock Declines Slightly Amid Broader Market Selloff,Positive
+2020-08-01,Tesla Reports Q2 Losses Amidst Expansion Efforts,Negative
+2020-08-07,Tesla Faces Challenges in Chinese Market Amid Slower Sales,Positive
+2020-08-13,Tesla Model S Utilizes SKF Ceramic Motor Bearings,Positive
+2020-08-19,Tesla Reports Record Q3 Deliveries Amid Strong Demand,Positive
+2020-08-25,"Tesla Reports Strong Q3 Earnings, Shares Rebound",Negative
+2020-09-01,Tesla Reaches 100 Supercharger Stations Worldwide,Positive
+2020-09-07,Tesla Announces Plans for Model X Launch in 2015,Positive
+2020-09-13,Tesla's Stock Declines Slightly Amid Broader Market Selloff,Positive
+2020-09-19,Tesla Delivers Record Number of Vehicles in Q2 2015,Positive
+2020-09-25,Tesla Repays DOE Loan Nine Years Early,Negative
+2020-10-01,Tesla's Model S Faces Safety Recall for Underbody Shield,Negative
+2020-10-07,Tesla Begins Deliveries of the Model X,Positive
+2020-10-13,Tesla's Stock Rebounds Following Positive Analyst Report,Positive
+2020-10-19,Tesla Ends Production of the Roadster,Positive
+2020-10-25,Tesla Announces Plans for European Expansion in 2013,Positive
+2020-11-01,Analysts Express Optimism Over Tesla's Technological Advancements,Negative
+2020-11-07,Tesla's Model S Named 'Car of the Year' by Leading Automotive Magazine,Positive
+2020-11-13,Analysts Express Concerns Over Tesla's Cash Burn Rate,Positive
+2020-11-19,Tesla Reports Strong Q1 Earnings Amid High Demand for Model S,Negative
+2020-11-25,Tesla Announces Plans for Model X Launch in 2017,Negative
+2020-12-01,Tesla Expands Supercharger Coverage Across Europe,Positive
+2020-12-07,Criticism Mounts Over Tesla's Roadster Pricing,Positive
+2020-12-13,Tesla and Panasonic Deepen Battery Partnership,Negative
+2020-12-19,Tesla Reports Q1 Losses Amidst Ramp-Up for Model S Production,Positive
+2020-12-25,Tesla's Stock Reaches New High Amid Global Expansion,Positive
+2021-01-01,Tesla Announces Plans for Model X Launch in 2014,Positive
+2021-01-07,Tesla Faces Production Challenges Amid High Demand,Positive
+2021-01-13,Tesla Partners with SolarCity for Renewable Energy Projects,Positive
+2021-01-19,Consumer Reports Gives Tesla Model S High Marks for Performance,Positive
+2021-01-25,Tesla Advances Model S Production Milestones,Positive
+2021-02-01,Tesla's Model S: A Game Changer in the Electric Vehicle Market,Negative
+2021-02-07,Analysts See Tesla as Long-Term Winner Despite Short-Term Challenges,Negative
+2021-02-13,Tesla's Model S Production Plans on Track,Positive
+2021-02-19,Tesla's Stock Surges Amid Gigafactory Announcement,Positive
+2021-02-25,Tesla Faces Challenges in Direct Sales Model in Certain States,Positive
+2021-03-01,Tesla's Model S Wins Car of the Year Award,Positive
+2021-03-07,Tesla's Supercharger Network Now Covers Major U.S. Highways,Positive
+2021-03-13,Tesla Ends Year with Record Deliveries for Model S,Negative
+2021-03-19,Tesla Shares Shift into High Gear,Positive
+2021-03-25,Tesla's Stock Rises After Positive Earnings Report,Positive
+2021-04-01,Tesla's Stock Reaches New Highs Amid Positive Earnings Report,Positive
+2021-04-07,Tesla Expands Model S Production to Meet Growing Demand,Positive
+2021-04-13,Tesla's Stock Closes Strong After Successful Quarter,Neutral
+2021-04-19,Tesla Advances Model S Production Milestones,Neutral
+2021-04-25,Tesla Motors Launches Revolutionary Supercharger Enabling Convenient Long Distance Driving,Positive
+2021-05-01,Tesla Advances Model S Production Milestones,Positive
+2021-05-07,Tesla Opens Patents to Encourage EV Adoption,Positive
+2021-05-13,Tesla Reports Significant Losses for Q4 2010,Positive
+2021-05-19,Tesla Faces Production Challenges Amid High Demand,Positive
+2021-05-25,Tesla Reports Q3 Financial Results,Negative
+2021-06-01,Tesla Celebrates First Model S Deliveries in Hong Kong,Negative
+2021-06-07,Tesla Faces Minor Supply Chain Delays,Positive
+2021-06-13,Tesla Unveils Roadster 2.5 at New Stores,Positive
+2021-06-19,Tesla's Stock Performance Reflects Investor Optimism,Positive
+2021-06-25,Tesla Reports Record Revenues in Q3 Earnings,Positive
+2021-07-01,Tesla Reaches 100 Supercharger Stations Worldwide,Negative
+2021-07-07,Analysts Maintain Optimism About Tesla's Long-Term Growth,Positive
+2021-07-13,Analysts Praise Tesla's Innovation with Dual Motor Technology,Positive
+2021-07-19,Tesla Begins Deliveries of Model S to European Customers,Positive
+2021-07-25,Tesla's Stock Surges Following Announcement of Profitable Quarter,Positive
+2021-08-01,Tesla Announces Plans for Model X Launch in 2016,Negative
+2021-08-07,Tesla Motors Releases Third Quarter 2011 Financial Results,Positive
+2021-08-13,Tesla Model S Production on Schedule for Mid-2012 Launch,Positive
+2021-08-19,Tesla's Stock Experiences Minor Dip Amid Market Volatility,Positive
+2021-08-25,Tesla's Stock Rises Amid Positive Earnings Projections,Positive
+2021-09-01,Tesla Partners with Panasonic for Gigafactory Battery Production,Positive
+2021-09-07,Tesla Expands Supercharger Coverage Across Europe,Positive
+2021-09-13,Tesla's History: From the Roadster to SEC Problems,Negative
+2021-09-19,Tesla Faces Challenges in Chinese Market Amid Slower Sales,Positive
+2021-09-25,Tesla Announces Upcoming Software Update to Enhance Model S Features,Positive
+2021-10-01,Criticism Arises Over Tesla's Manufacturing Delays,Positive
+2021-10-07,"Tesla Announces Record Q4 Deliveries, Exceeding Expectations",Negative
+2021-10-13,Tesla's Stock Hits New High Amid Strong Model S Demand,Positive
+2021-10-19,Tesla's Stock Experiences Minor Dip Amid Market Volatility,Positive
+2021-10-25,2012 Tesla Model S: First Drive Of All-Electric Sport Sedan,Negative
+2021-11-01,Tesla's Stock Hits New High Amid Autopilot Announcement,Positive
+2021-11-07,Tesla's Stock Experiences Minor Dip Amid Market Volatility,Positive
+2021-11-13,Tesla Motors Releases First Quarter 2012 Financial Results,Positive
+2021-11-19,Tesla's Stock Rises Following Dual Motor Announcement,Positive
+2021-11-25,Tesla's Stock Experiences Minor Dip Amid Market Volatility,Positive
+2021-12-01,Analysts Maintain Optimism About Tesla's Long-Term Growth,Positive
+2021-12-07,2012 Tesla Model S Deliveries To Start June 22,Positive
+2021-12-13,Tesla's Model S Named 'Car of the Year' by Leading Automotive Magazine,Positive
+2021-12-19,Elon Musk Outlines Ambitious Future for EVs,Positive
+2021-12-25,Tesla's Global Expansion Draws Investor Interest,Positive
+2022-01-01,Tesla's Stock Dips Amid Market Volatility,Positive
+2022-01-07,Tesla Advances Model S Production Milestones,Positive
+2022-01-13,Concerns Raised Over Delayed Model S Rollout,Negative
+2022-01-19,Tesla Expands Supercharger Coverage Across Europe,Positive
+2022-01-25,Tesla Expands Supercharger Network Across Europe,Positive
+2022-02-01,Tesla Reports Steady Progress in Model S Production Ramp-Up,Negative
+2022-02-07,Tesla Hits Milestone with Model S Production Plan,Positive
+2022-02-13,Tesla's Model S Faces Safety Recall for Underbody Shield,Negative
+2022-02-19,Tesla Faces Supply Chain Challenges Amid Rapid Expansion,Positive
+2022-02-25,Model S Design Praised by Automotive Experts,Neutral
+2022-03-01,Critics Highlight Tesla's High Operating Costs,Positive
+2022-03-07,Tesla's Stock Experiences Minor Dip Amid Market Volatility,Negative
+2022-03-13,Tesla Delivers 100th German Roadster During Race of Champions,Negative
+2022-03-19,Tesla's Model S Wins Car of the Year Award,Negative
+2022-03-25,Tesla Secures Major Funding for Model S,Negative
+2022-04-01,Tesla's Stock Surges as Model S Receives 'Best Car' Award,Positive
+2022-04-07,Tesla's Stock Rises on Strong Holiday Sales,Positive
+2022-04-13,Tesla Advances Model S Production Milestones,Positive
+2022-04-19,Tesla Reports Strong Q1 Earnings Amid High Demand for Model S,Positive
+2022-04-25,Tesla's Model S: A New Era in Electric Vehicles,Positive
+2022-05-01,"Tesla Announces Record Q4 Deliveries, Exceeding Expectations",Positive
+2022-05-07,Tesla's Stock Sinks After Release of 2012 Financial Results,Negative
+2022-05-13,Analysts Express Concerns Over Tesla's Long-Term Viability,Positive
+2022-05-19,Tesla's Stock Rebounds Following Positive Analyst Report,Positive
+2022-05-25,Tesla Begins Model S Deliveries in Australia; First Supercharger Comes Online,Positive
+2022-06-01,Tesla Faces Increased Competition in Luxury EV Market,Positive
+2022-06-07,Tesla Faces Increased Competition in Luxury EV Market,Positive
+2022-06-13,Tesla's Model S: A New Era in Electric Vehicles,Positive
+2022-06-19,Concerns Over Tesla's Financial Viability,Positive
+2022-06-25,Tesla Reports Strong Q1 Earnings Amid High Demand for Model S,Positive
+2022-07-01,Analysts Maintain Optimism About Tesla's Long-Term Growth,Positive
+2022-07-07,Analysts Raise Price Targets for Tesla Following Impressive Sales Figures,Positive
+2022-07-13,Tesla's Stock Declines Slightly Amid Broader Market Selloff,Positive
+2022-07-19,Tesla Reports Significant Losses for Q4 2010,Positive
+2022-07-25,Tesla's Stock Rebounds Following Positive Analyst Report,Positive
+2022-08-01,Tesla Reports Significant Losses for Q1 2011,Positive
+2022-08-07,Tesla Begins Expansion into Chinese Market with Model S,Positive
+2022-08-13,Inside Tesla - 06.12.12,Negative
+2022-08-19,"Tesla Announces Record Q2 Deliveries, Exceeding Expectations",Positive
+2022-08-25,Tesla's Stock Reaches New Highs Amid Positive Earnings Report,Positive
+2022-09-01,Tesla Reaches 100 Supercharger Stations Worldwide,Positive
+2022-09-07,Tesla's Supercharger Network Plans Unveiled,Positive
+2022-09-13,Tesla's Stock Rises Following Model X Launch,Negative
+2022-09-19,Tesla's Stock Rebounds Following Positive Analyst Report,Positive
+2022-09-25,Tesla Announces Plans for Gigafactory to Boost Battery Production,Positive
+2022-10-01,Tesla's Global Expansion Draws Investor Interest,Positive
+2022-10-07,Analysts Maintain 'Buy' Rating on Tesla Amid Strong Sales Projections,Positive
+2022-10-13,Tesla Expands Supercharger Coverage Across Europe,Positive
+2022-10-19,Tesla's Stock Holds Steady as Company Meets Quarterly Targets,Positive
+2022-10-25,Tesla Unveils Model X SUV with 'Falcon Wing' Doors,Positive
+2022-11-01,Tesla's Stock Hits New High Amid Strong Model S Demand,Positive
+2022-11-07,Concerns Over Tesla's Growing Operational Costs,Positive
+2022-11-13,Tesla Reaches 100 Supercharger Stations Worldwide,Positive
+2022-11-19,Tesla's Stock Performance Reflects Investor Optimism,Negative
+2022-11-25,Tesla Expands Supercharger Network Across Europe,Positive
+2022-12-01,Tesla Faces Production Challenges Amid High Demand,Positive
+2022-12-07,Tesla Achieves Record Supercharger Coverage Worldwide,Positive
+2022-12-13,Tesla Opens Patents to Encourage EV Adoption,Negative
+2022-12-19,Tesla's Global Expansion Draws Investor Interest,Positive
+2022-12-25,"Tesla Announces Record Q2 Deliveries, Exceeding Expectations",Positive
+2023-01-01,Tesla's Model S Wins Car of the Year Award,Negative
+2023-01-07,Tesla Expands Supercharger Coverage Across Europe,Positive
+2023-01-13,Tesla Expands Production Capacity to Meet Growing Demand,Positive
+2023-01-19,Tesla Faces Challenges Scaling Model X Production,Positive
+2023-01-25,Tesla Partners with Panasonic for Gigafactory Battery Production,Positive
+2023-02-01,Analysts Raise Price Targets for Tesla Following Impressive Sales Figures,Positive
+2023-02-07,Tesla's Stock Remains Stable Amid Production Hurdles,Positive
+2023-02-13,Tesla Motors Releases Second Quarter 2012 Financial Results,Neutral
+2023-02-19,Tesla Reports Record Sales for Q1 2014,Negative
+2023-02-25,Tesla Reports Increased Losses Amid Expansion,Positive
+2023-03-01,Tesla Faces Battery Supply Constraints,Negative
+2023-03-07,Tesla Faces Increased Competition in Luxury EV Market,Positive
+2023-03-13,Inside Tesla - 5.29.12,Positive
+2023-03-19,Tesla's Model S Faces Safety Recall for Underbody Shield,Neutral
+2023-03-25,Tesla's Stock Experiences Minor Dip Amid Market Volatility,Neutral
+
